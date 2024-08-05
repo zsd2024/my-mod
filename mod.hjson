@@ -1,0 +1,23 @@
+#游戏内显示的模组名称
+displayName: "Java 模组模板"
+
+#模组的内部名称
+name: "example-java-mod"
+
+#作者名称
+author: "你"
+
+#模组的主类全名
+main: "example.ExampleJavaMod"
+
+#模组描述，在模组对话框中可见
+description: "一个 Mindustry Java 模组模板。"
+
+#模组版本
+version: 1.0
+
+#运行此模组所需的最低游戏版本
+minGameVersion: 145
+
+#这是一个 Java 模组
+java: true
